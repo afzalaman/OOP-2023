@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1013EF9D-DAE9-41CB-9171-0011469D2C12}|Default">
+  <MonoDevelop.Ide.ItemProperties.Circle__Point PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Circle_Point/Program.cs">
+    <Files>
+      <File FileName="Circle_Point/Point.cs" Line="1" Column="1" />
+      <File FileName="Circle_Point/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Circle_Point" expanded="True">
+            <Node name="Circle_Point" expanded="True">
+              <Node name="input.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
