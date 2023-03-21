@@ -9,13 +9,14 @@
             LTMatrix c = new LTMatrix(2);
             Console.WriteLine($"a:\n{a}\n\n");
             Console.WriteLine($"b:\n{b}\n");
-            Console.WriteLine($"a[2,3]= {a.GetElement(1, 2)}\n");
-            Console.WriteLine($"a[3,2]= {a.GetElement(2, 1)}\n\n");
+            Console.WriteLine($"a[1,1]= {a.GetElement(1, 1)}\n");
+            Console.WriteLine($"a[2,1]= {a.GetElement(2, 1)}\n\n");
             Console.WriteLine($"a+b:\n{LTMatrix.Add(a, b)}\n\n");
             Console.WriteLine($"a*b:\n{LTMatrix.Multiply(a, b)}\n\n");
-
+            
             LTMatrix d = new LTMatrix("input.txt");
             Console.WriteLine($"d:\n{d}\n\n");
+
             try
             {
                 LTMatrix e = new LTMatrix("wrong_length.txt");

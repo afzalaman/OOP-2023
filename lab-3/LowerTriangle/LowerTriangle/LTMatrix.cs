@@ -17,13 +17,14 @@ namespace LowerTriangle
         public class DimensionMismatchException : Exception { };
         public class InvalidVectorException : Exception { };
 
-        private List<int> _vec;
+        public List<int> _vec;
         private int _size;
 
 
-        private int ind(int i, int j)
+        public int ind(int i, int j)
         {
-            return j + i * (i + 1) / 2; ///indexing from zero // add i in the formula on pdf
+            //indexing from zero 
+            return j + i * (i - 1) / 2 - 1;
         }
         private double calcSizeFromLength(int length)
         {
@@ -31,7 +32,7 @@ namespace LowerTriangle
         }
         private bool inLowerTrng(int i, int j)
         {
-            return (0 <= j && j <= i && i < _size);
+            return (1 <= j && j <= i && i <= _size);
         }
 
         //constructors
@@ -48,7 +49,7 @@ namespace LowerTriangle
         {
             _size = size;
             _vec = new List<int>();
-            int length = size * (size + 1) / 2;
+            int length = (size * (size + 1)) / 2; 
             for (int i=0;i<length;i++)
             {
                 _vec.Add(0);
@@ -102,7 +103,7 @@ namespace LowerTriangle
             {
                 return _vec[ind(i, j)];
             }
-            else if (0 <= j && j < _size && 0 <= i && i < _size) /// other valid indices
+            else if (1 <= j && j <= _size && 1 <= i && i <= _size) /// other valid indices
             {
                 return 0;
             }
@@ -130,7 +131,7 @@ namespace LowerTriangle
 
         void SetElement(int i, int j, int e)
         {
-            if (0 <= j && j <= i && i < _size) /// indices of the lower part
+            if (1 <= j && j <= i && i <=_size) /// indices of the lower part
             {
                 _vec[ind(i, j)] = e; /// vector indexing starts at 0
             }
@@ -164,9 +165,9 @@ namespace LowerTriangle
             if (a.GetSize() == b.GetSize())
             {
                 LTMatrix mul = new LTMatrix(a.GetSize());
-                for (int i = 0; i < a._size; i++)
+                for (int i = 1; i <= a._size; i++)
                 {
-                    for (int j = 0; j < a._size; j++)
+                    for (int j = 1; j < a._size; j++)
                     {
                         if (a.inLowerTrng(i, j)) /// only the lower triangular part need calculation
                         {
@@ -189,9 +190,9 @@ namespace LowerTriangle
         {
             String str = "";
             str += _size.ToString() + "x" + _size.ToString()+"\n";
-            for (int i = 0; i < _size; i++)
+            for (int i = 1; i <= _size; i++)
             {
-                for (int j = 0; j < _size; j++)
+                for (int j = 1; j <= _size; j++)
                 {
                     str += GetElement(i, j).ToString() + " ";
                 }

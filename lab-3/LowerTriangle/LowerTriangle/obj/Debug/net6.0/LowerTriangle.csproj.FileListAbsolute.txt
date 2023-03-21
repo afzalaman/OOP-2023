@@ -17,3 +17,22 @@
 /Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/ref/LowerTriangle.dll
 /Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/input.txt
 /Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/wrong_length.txt
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/input.txt
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/wrong_length.txt
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/LowerTriangle
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/LowerTriangle.deps.json
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/LowerTriangle.runtimeconfig.json
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/LowerTriangle.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/LowerTriangle.pdb
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/bin/Debug/net6.0/TextFile.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.csproj.AssemblyReference.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.AssemblyInfoInputs.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.AssemblyInfo.cs
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.csproj.CoreCompileInputs.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.csproj.CopyComplete
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/refint/LowerTriangle.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.pdb
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/LowerTriangle.genruntimeconfig.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/Debug/net6.0/ref/LowerTriangle.dll

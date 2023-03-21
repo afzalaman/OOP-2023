@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab3/LowerTriangle/LowerTriangle/LowerTriangle.csproj",
+      "projectUniqueName": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/LowerTriangle.csproj",
       "projectName": "LowerTriangle",
-      "projectPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab3/LowerTriangle/LowerTriangle/LowerTriangle.csproj",
+      "projectPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/LowerTriangle.csproj",
       "packagesPath": "/Users/aliafzal/.nuget/packages/",
-      "outputPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab3/LowerTriangle/LowerTriangle/obj/",
+      "outputPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/ELTE 3 Sem/WebProg/OOP-2023/lab-3/LowerTriangle/LowerTriangle/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aliafzal/.nuget/NuGet/NuGet.Config"
