@@ -1,0 +1,15 @@
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/bin/Debug/net6.0/PriorityQueue
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/bin/Debug/net6.0/PriorityQueue.deps.json
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/bin/Debug/net6.0/PriorityQueue.runtimeconfig.json
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/bin/Debug/net6.0/PriorityQueue.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/bin/Debug/net6.0/PriorityQueue.pdb
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/PriorityQueue.csproj.AssemblyReference.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/PriorityQueue.AssemblyInfoInputs.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/PriorityQueue.AssemblyInfo.cs
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/PriorityQueue.csproj.CoreCompileInputs.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/PriorityQueue.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/refint/PriorityQueue.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/PriorityQueue.pdb
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/PriorityQueue.genruntimeconfig.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/Debug/net6.0/ref/PriorityQueue.dll
