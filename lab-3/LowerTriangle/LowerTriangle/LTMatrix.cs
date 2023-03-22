@@ -28,7 +28,7 @@ namespace LowerTriangle
         }
         private double calcSizeFromLength(int length)
         {
-            return (-1 + Math.Sqrt(1 + 8 * length)) / 2; /// root of (x^2+x-2*length=0) as x*(x-1)/2=length
+            return (-1 + Math.Sqrt(1 + 8 * length)) / 2; /// root of (x^2+x-2*length=0) as x*(x+1)/2=length
         }
         private bool inLowerTrng(int i, int j)
         {
