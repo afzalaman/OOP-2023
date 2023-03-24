@@ -4,15 +4,36 @@ namespace PriorityQueue
 {
     class Menu
     {
-        private readonly PrQueue pq = new ();
+        private PrQueue pq = new PrQueue();
+
+        private static int GetMenuInput()
+        {
+            int v;
+            Console.WriteLine("\n********************************");
+            Console.WriteLine("0. Exit");
+            Console.WriteLine("1. Add element");
+            Console.WriteLine("2. RemMax");
+            Console.WriteLine("3. GetMax");
+            Console.WriteLine("4. IsEmpty");
+            Console.WriteLine("5. Print");
+            Console.WriteLine("****************************************");
+
+            v = int.Parse(Console.ReadLine());
+
+            return v;
+        }
+
         public void Run()
         {
             int v;
             do
             {
-                v = GetMenuPoint();
+                v = GetMenuInput();
                 switch (v)
                 {
+                    case 0:
+                        Console.WriteLine("\nBye!");
+                        break;
                     case 1:
                         PutIn();
                         Write();
@@ -33,31 +54,16 @@ namespace PriorityQueue
                         Write();
                         break;
                     default:
-                        Console.WriteLine("\nBye!");
+                        Console.WriteLine("\nInvalid option");
                         break;
 
                 }
             } while (v != 0);
         }
-        private static int GetMenuPoint()
-        {
-            int v;
-            Console.WriteLine("\n********************************");
-            Console.WriteLine("0. Exit");
-            Console.WriteLine("1. Add element");
-            Console.WriteLine("2. RemMax");
-            Console.WriteLine("3. GetMax");
-            Console.WriteLine("4. IsEmpty");
-            Console.WriteLine("5. Print");
-            Console.WriteLine("****************************************");
-
-            v = int.Parse(Console.ReadLine());
-
-            return v;
-        }
+        
         private void PutIn()
         {
-            Item e = new ();
+            Item e = new();
             Console.WriteLine("What shall I add?");
             e.Read();
             pq.Add(e);
@@ -68,7 +74,7 @@ namespace PriorityQueue
             try
             {
                 e = pq.RemMax();
-                Console.WriteLine("Taken element:\n ({0}, {1})", e.pr, e.data);
+                Console.WriteLine($"Taken element:\n {e}");
             }
             catch (PrQueue.PrQueueEmpty)
             {
@@ -81,7 +87,7 @@ namespace PriorityQueue
             try
             {
                 e = pq.GetMax();
-                Console.WriteLine("Maximal element:\n ({0}, {1})", e.pr, e.data);
+                Console.WriteLine($"Maximal element:\n \n {e}");
             }
             catch (PrQueue.PrQueueEmpty)
             {
@@ -95,7 +101,7 @@ namespace PriorityQueue
             else
                 Console.WriteLine("The queue is NOT empty!\n");
         }
-        private void Write()
+        private void Write() //print
         {
             pq.Write();
         }

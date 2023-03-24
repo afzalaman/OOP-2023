@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net7.0": {
       "coverlet.collector/3.1.2": {
         "type": "package",
         "build": {
@@ -1904,7 +1904,7 @@
       },
       "PriorityQueue/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/PriorityQueue.dll": {}
         },
@@ -6779,7 +6779,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net7.0": [
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
@@ -6793,27 +6793,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/TestPriorityQueue/TestPriorityQueue.csproj",
+      "projectUniqueName": "/Users/aliafzal/Downloads/PriorityQueue/TestPriorityQueue/TestPriorityQueue.csproj",
       "projectName": "TestPriorityQueue",
-      "projectPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/TestPriorityQueue/TestPriorityQueue.csproj",
+      "projectPath": "/Users/aliafzal/Downloads/PriorityQueue/TestPriorityQueue/TestPriorityQueue.csproj",
       "packagesPath": "/Users/aliafzal/.nuget/packages/",
-      "outputPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/TestPriorityQueue/obj/",
+      "outputPath": "/Users/aliafzal/Downloads/PriorityQueue/TestPriorityQueue/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aliafzal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/PriorityQueue.csproj": {
-              "projectPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/PriorityQueue.csproj"
+            "/Users/aliafzal/Downloads/PriorityQueue/PriorityQueue/PriorityQueue.csproj": {
+              "projectPath": "/Users/aliafzal/Downloads/PriorityQueue/PriorityQueue/PriorityQueue.csproj"
             }
           }
         }
@@ -6825,8 +6825,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",

@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/PriorityQueue.csproj": {}
+    "/Users/aliafzal/Downloads/PriorityQueue/PriorityQueue/PriorityQueue.csproj": {}
   },
   "projects": {
-    "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/PriorityQueue.csproj": {
+    "/Users/aliafzal/Downloads/PriorityQueue/PriorityQueue/PriorityQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/PriorityQueue.csproj",
+        "projectUniqueName": "/Users/aliafzal/Downloads/PriorityQueue/PriorityQueue/PriorityQueue.csproj",
         "projectName": "PriorityQueue",
-        "projectPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/PriorityQueue.csproj",
+        "projectPath": "/Users/aliafzal/Downloads/PriorityQueue/PriorityQueue/PriorityQueue.csproj",
         "packagesPath": "/Users/aliafzal/.nuget/packages/",
-        "outputPath": "/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab4/PriorityQueue/PriorityQueue/obj/",
+        "outputPath": "/Users/aliafzal/Downloads/PriorityQueue/PriorityQueue/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aliafzal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

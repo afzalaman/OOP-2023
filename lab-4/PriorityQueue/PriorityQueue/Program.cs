@@ -8,7 +8,7 @@ namespace PriorityQueue
         {
             Console.WriteLine("Priority queue");
 
-            Menu test = new ();
+            Menu test = new();
             test.Run();
         }
     }

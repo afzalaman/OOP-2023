@@ -8,7 +8,9 @@ namespace PriorityQueue
         public int pr;
         public string data;
 
+
         public Item() { }
+
         public Item(int p, string str)
         {
             pr = p;
@@ -17,7 +19,7 @@ namespace PriorityQueue
 
         public override string ToString()
         {
-            return "("+pr.ToString()+", "+"data"+")";
+            return "(" + pr.ToString() + ", " + data + ")";
         }
 
         public void Read()
@@ -26,18 +28,30 @@ namespace PriorityQueue
             data = Console.ReadLine();
             Console.WriteLine("Priority: ");
             pr = int.Parse(Console.ReadLine());
+            //Double.Parse
+            
+
         }
     }
+
+
     public class PrQueue
     {
-        private readonly List<Item> seq = new ();  
-        public class PrQueueEmpty : Exception{}
+        private List<Item> seq = new();
+
+        public List<Item> getSeq()
+        {
+            return seq;
+        }
+
+        public class PrQueueEmpty : Exception { }
 
         public void Add(Item a)
         {
             seq.Add(a);
         }
-        public Item RemMax() 
+
+        public Item RemMax()
         {
             if (seq.Count == 0) throw new PrQueueEmpty();
             int ind = MaxIndex();
@@ -45,37 +59,38 @@ namespace PriorityQueue
             seq.RemoveAt(ind);
             return best;
         }
-        public Item GetMax()   
+        public Item GetMax()
         {
             if (seq.Count == 0) throw new PrQueueEmpty();
             int ind = MaxIndex();
             return seq[ind];
         }
-        public bool IsEmpty()  
-        { 
-            return seq.Count == 0; 
-        }
-
-        public int GetLength() {return seq.Count;}
-
-        public void Write()
+        public bool IsEmpty()
         {
-            foreach(Item e in seq)
-            {
-                Console.WriteLine(e.ToString());
-            }
+            return seq.Count == 0;
         }
 
-        private int MaxIndex() 
+        public int GetLength() { return seq.Count; }
+
+        public void Write()//printing
+        {
+            foreach (Item e in seq)
+            {
+                Console.WriteLine(e);
+            }
+            //foreach ()
+        }
+
+        private int MaxIndex()
         {
             int ind = 0;
-            int maxkey = seq[0].pr;
-            for ( int i = 1; i < seq.Count; ++i)
+            int maxPr = seq[0].pr;
+            for (int i = 1; i < seq.Count; ++i)
             {
-                if (seq[i].pr > maxkey)
+                if (seq[i].pr > maxPr)
                 {
                     ind = i;
-                    maxkey = seq[i].pr;
+                    maxPr = seq[i].pr;
                 }
             }
             return ind;
