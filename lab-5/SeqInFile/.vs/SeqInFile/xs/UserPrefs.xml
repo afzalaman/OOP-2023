@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{377CB267-C812-40F6-A4CC-1DA40F3D9AF7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeqInFile/Program.cs">
+    <Files>
+      <File FileName="SeqInFile/Program.cs" Line="23" Column="36" />
+      <File FileName="SeqInFile/input.txt" Line="1" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeqInFile" expanded="True">
+            <Node name="SeqInFile" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SeqInFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
