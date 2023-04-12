@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D70E0436-1C8C-4C67-BD09-85F6C14DA258}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="grade5/Semester.cs">
+    <Files>
+      <File FileName="grade3/Program.cs" Line="1" Column="1" />
+      <File FileName="grade5/Program.cs" Line="1" Column="17" />
+      <File FileName="grade5/Semester.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mid-Sample" expanded="True">
+            <Node name="grade3" expanded="True" />
+            <Node name="grade5" expanded="True">
+              <Node name="Semester.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.grade5 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.grade3 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
