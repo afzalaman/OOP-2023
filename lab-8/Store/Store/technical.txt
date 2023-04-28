@@ -1,0 +1,8 @@
+Computer 5000
+Cellphone 100
+Cellphone 50
+Cellphone 70
+Cellphone 150
+Lamp 10
+Computer 4500
+Lamp 5
