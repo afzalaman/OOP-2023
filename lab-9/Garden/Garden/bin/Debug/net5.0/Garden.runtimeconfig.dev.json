@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tibi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tibi\\.nuget\\packages"
+    ]
+  }
+}

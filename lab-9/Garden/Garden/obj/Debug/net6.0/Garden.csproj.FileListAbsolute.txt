@@ -1,0 +1,30 @@
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/bin/Debug/net6.0/Garden
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/bin/Debug/net6.0/Garden.deps.json
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/bin/Debug/net6.0/Garden.runtimeconfig.json
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/bin/Debug/net6.0/Garden.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/bin/Debug/net6.0/Garden.pdb
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/Garden.csproj.AssemblyReference.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/Garden.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/Garden.AssemblyInfoInputs.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/Garden.AssemblyInfo.cs
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/Garden.csproj.CoreCompileInputs.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/Garden.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/refint/Garden.dll
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/Garden.pdb
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/Garden.genruntimeconfig.cache
+/Users/aliafzal/Documents/Documents - Afzal’s MacBook Air/OOP/materials/lab9/Garden/Garden/Garden/obj/Debug/net6.0/ref/Garden.dll
+/Users/aliafzal/Downloads/Garden/Garden/bin/Debug/net6.0/Garden
+/Users/aliafzal/Downloads/Garden/Garden/bin/Debug/net6.0/Garden.deps.json
+/Users/aliafzal/Downloads/Garden/Garden/bin/Debug/net6.0/Garden.runtimeconfig.json
+/Users/aliafzal/Downloads/Garden/Garden/bin/Debug/net6.0/Garden.dll
+/Users/aliafzal/Downloads/Garden/Garden/bin/Debug/net6.0/Garden.pdb
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/Garden.csproj.AssemblyReference.cache
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/Garden.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/Garden.AssemblyInfoInputs.cache
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/Garden.AssemblyInfo.cs
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/Garden.csproj.CoreCompileInputs.cache
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/Garden.dll
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/refint/Garden.dll
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/Garden.pdb
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/Garden.genruntimeconfig.cache
+/Users/aliafzal/Downloads/Garden/Garden/obj/Debug/net6.0/ref/Garden.dll

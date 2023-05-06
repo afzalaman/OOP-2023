@@ -1,0 +1,16 @@
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\bin\Debug\net5.0\Garden.exe
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\bin\Debug\net5.0\Garden.deps.json
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\bin\Debug\net5.0\Garden.runtimeconfig.json
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\bin\Debug\net5.0\Garden.runtimeconfig.dev.json
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\bin\Debug\net5.0\Garden.dll
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\bin\Debug\net5.0\ref\Garden.dll
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\bin\Debug\net5.0\Garden.pdb
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\Garden.csproj.AssemblyReference.cache
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\Garden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\Garden.AssemblyInfoInputs.cache
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\Garden.AssemblyInfo.cs
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\Garden.csproj.CoreCompileInputs.cache
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\Garden.dll
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\ref\Garden.dll
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\Garden.pdb
+C:\Users\Tibi\Documents\Oktat\OEP\Gyakorlatok\07-11.gyakorlat\09.programok\Garden\Garden\obj\Debug\net5.0\Garden.genruntimeconfig.cache
