@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{04AD61BE-5F7E-4E87-81F0-44F27397454E}|Default">
+  <MonoDevelop.Ide.ItemProperties.FunFair PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="strategy/FunFair/Size.cs">
+    <Files>
+      <File FileName="FunFair/Guest.cs" Line="1" Column="1" />
+      <File FileName="FunFair/Gallery.cs" Line="1" Column="1" />
+      <File FileName="FunFair/Prize.cs" Line="17" Column="37" />
+      <File FileName="FunFair/Program.cs" Line="1" Column="1" />
+      <File FileName="FunFair/Size.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunFair" expanded="True">
+            <Node name="FunFair" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
