@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{43489074-DAD7-4237-84D6-7610990AB452}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StarWars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StarWars/input.txt">
+    <Files>
+      <File FileName="StarWars/input.txt" Line="1" Column="1" />
+      <File FileName="StarWars/SolarSystem.cs" />
+      <File FileName="StarWars/Program.cs" Line="1" Column="1" />
+      <File FileName="StarWars/Planet.cs" Line="1" Column="1" />
+      <File FileName="StarWars/StarShip.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StarWars" expanded="True">
+            <Node name="StarWars" expanded="True">
+              <Node name="input.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

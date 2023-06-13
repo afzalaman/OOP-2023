@@ -1,0 +1,6 @@
+3
+Earth   1
+first   Destroyer 3   3   3
+Venus   1
+second  Transport  1   1   1
+Mars    0
