@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{07A45F21-4EC7-4BA2-AD26-7645A3ED2C90}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="fishingContest/Program.cs">
+    <Files>
+      <File FileName="fishingContest/Program.cs" Line="16" Column="1" />
+      <File FileName="fishingContest/contests.txt" Line="2" Column="13" />
+      <File FileName="fishingContest/contest3.txt" Line="1" Column="8" />
+      <File FileName="fishingContest/contest2.txt" Line="4" Column="21" />
+      <File FileName="fishingContest/contest1.txt" Line="4" Column="19" />
+      <File FileName="fishingContest/Fish.cs" Line="49" Column="29" />
+      <File FileName="fishingContest/Catch.cs" Line="16" Column="16" />
+      <File FileName="fishingContest/Angler.cs" Line="13" Column="20" />
+      <File FileName="fishingContest/Contest.cs" Line="27" Column="14" />
+      <File FileName="fishingContest/Club.cs" Line="19" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fishingContest" expanded="True">
+            <Node name="fishingContest" expanded="True">
+              <Node name="contests.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.fishingContest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

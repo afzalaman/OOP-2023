@@ -1,0 +1,4 @@
+Feher-to
+Johnny  carp  0.8
+Johnny  catfish  80.5
+Jackie    bream  0.8
